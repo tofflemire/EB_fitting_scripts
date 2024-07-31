@@ -1,6 +1,6 @@
 # Scripts for Fitting Eclipsing Binaries
 
-A collection of python scripts for fitting eclipsing binary systems under various assmputions. 
+A collection of python scripts for fitting eclipsing binary systems under various assumptions. 
 
 These scripts were developed for the analysis of the young eclipsing binary, TOI 450. 
 
